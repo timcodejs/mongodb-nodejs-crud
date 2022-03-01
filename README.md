@@ -10,3 +10,4 @@ module/delete.js - 사용자 정보 삭제 스크립트(Delete)
 Server - NodeJS
 DB - MongoDB
 
+![1*htQ_YMkwGuHQW0i6ToVeQw](https://user-images.githubusercontent.com/46413981/156226308-aece528f-873b-43ad-a8a9-c4460f3001f0.png)
